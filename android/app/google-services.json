@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "392719027768",
+    "project_id": "feepay-b0f04",
+    "storage_bucket": "feepay-b0f04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392719027768:android:9b2243771abc349e7fa0cd",
+        "android_client_info": {
+          "package_name": "com.example.payfee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392719027768-d50j4u9gh1e9d97bjifd0nkkog3hsmfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payfee",
+            "certificate_hash": "8eccbc5d7e3a82e96cc9d16b948ee7d27b90edc2"
+          }
+        },
+        {
+          "client_id": "392719027768-75gaq1k9bt07pdvffg475fh1re4j14e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtFyfkh9sS4xSsDU27Fe-5Y1jpOa4_0Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392719027768-75gaq1k9bt07pdvffg475fh1re4j14e8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392719027768-77dg26oo6djpc5620o5p0fm62483u13a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.payfee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

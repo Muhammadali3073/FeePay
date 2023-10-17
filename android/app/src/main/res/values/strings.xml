@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FeePay</string>
+    <string name="facebook_app_id">799048718196807</string>
+    <string name="fb_login_protocol_scheme">fb799048718196807</string>
+    <string name="facebook_client_token">58da325bce712df0f1b23fdef096cfe4</string>
+</resources>
